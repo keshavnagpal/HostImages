@@ -1,3 +1,1 @@
-# HostImages
-
-Repo to host some images
+Repository to host images
